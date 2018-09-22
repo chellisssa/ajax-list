@@ -38,5 +38,778 @@
   {
     "movie": "La vita e bella",
     "year": "1997"
+  },
+  {
+    "movie": "Pulp Fiction",
+    "year": "1994"
+  },
+  {
+    "movie": "The Prestige",
+    "year": "2006"
+  },
+  {
+    "movie": "A Beautiful Mind",
+    "year": "2001"
+  },
+  {
+    "movie": "Gladiator",
+    "year": "2000"
+  },
+  {
+    "movie": "Interstellar",
+    "year": "2014"
+  },
+  {
+    "movie": "The Lord of the Rings: The Return of the King",
+    "year": "2003"
+  },
+  {
+    "movie": "Back to the Future",
+    "year": "1985"
+  },
+  {
+    "movie": "Lock, Stock and Two Smoking Barrels",
+    "year": "1998"
+  },
+  {
+    "movie": "The Matrix",
+    "year": "1999"
+  },
+  {
+    "movie": "Catch Me If You Can",
+    "year": "2002"
+  },
+  {
+    "movie": "The Departed",
+    "year": "2006"
+  },
+  {
+    "movie": "The Pianist",
+    "year": "2002"
+  },
+  {
+    "movie": "Coco",
+    "year": "2017"
+  },
+  {
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001"
+  },
+  {
+    "movie": "WALL-E",
+    "year": "2008"
+  },
+  {
+    "movie": "Snatch",
+    "year": "2000"
+  },
+  {
+    "movie": "American History X",
+    "year": "1998"
+  },
+  {
+    "movie": "The Lord of the Rings: The Two Towers",
+    "year": "2002"
+  },
+  {
+    "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": "2003"
+  },
+  {
+    "movie": "Shutter Island",
+    "year": "2009"
+  },
+  {
+    "movie": "One Flew Over the Cuckoo's Nest",
+    "year": "1975"
+  },
+  {
+    "movie": "The Dark Knight",
+    "year": "2008"
+  },
+  {
+    "movie": "Titanic",
+    "year": "1997"
+  },
+  {
+    "movie": "12 Angry Men",
+    "year": "1956"
+  },
+  {
+    "movie": "Scent of a Woman",
+    "year": "1992"
+  },
+  {
+    "movie": "Awakenings",
+    "year": "1990"
+  },
+  {
+    "movie": "Some Like It Hot",
+    "year": "1959"
+  },
+  {
+    "movie": "Hachi: A Dog's Tale",
+    "year": "2008"
+  },
+
+  {
+    "movie": "It's a Wonderful Life",
+    "year": "1947"
+  },
+  {
+    "movie": "City Lights",
+    "year": "1931"
+  },
+  {
+    "movie": "Il buono, il brutto, il cattivo",
+    "year": "1966"
+  },
+  {
+    "movie": "Sen to Chihiro no kamikakushi",
+    "year": "2001"
+  },
+  {
+    "movie": "Les Choristes",
+    "year": "2004"
+  },
+  {
+    "movie": "Se7en",
+    "year": "1995"
+  },
+  {
+    "movie": "The Silence of the Lambs",
+    "year": "1990"
+  },
+  {
+    "movie": "How to Train Your Dragon",
+    "year": "2010"
+  },
+  {
+    "movie": "The Truman Show",
+    "year": "1998"
+  },
+  {
+    "movie": "Django Unchained",
+    "year": "2012"
+  },
+  {
+    "movie": "Terminator 2: Judgment Day",
+    "year": "1991"
+  },
+  {
+    "movie": "The Godfather: Part II",
+    "year": "1974"
+  },
+  {
+    "movie": "Cinderella Man",
+    "year": "2005"
+  },
+  {
+    "movie": "The Game",
+    "year": "1997"
+  },
+  {
+    "movie": "Braveheart",
+    "year": "1995"
+  },
+  {
+    "movie": "Whiplash",
+    "year": "2013"
+  },
+  {
+    "movie": "Gran Torino",
+    "year": "2008"
+  },
+  {
+    "movie": "The Help",
+    "year": "2011"
+  },
+  {
+    "movie": "Zootopia",
+    "year": "2016"
+  },
+  {
+    "movie": "Rain Man",
+    "year": "1988"
+  },
+  {
+    "movie": "Cast Away",
+    "year": "2000"
+  },
+  {
+    "movie": "The Sixth Sense",
+    "year": "1999"
+  },
+  {
+    "movie": "The Kid",
+    "year": "1921"
+  },
+  {
+    "movie": "The Pursuit of Happyness",
+    "year": "2006"
+  },
+  {
+    "movie": "Saving Private Ryan",
+    "year": "1998"
+  },
+  {
+    "movie": "The Butterfly Effect",
+    "year": "2003"
+  },
+  {
+    "movie": "Once Upon a Time in America",
+    "year": "1983"
+  },
+  {
+    "movie": "Back to the Future Part II",
+    "year": "1989"
+  },
+  {
+    "movie": "Beauty and the Beast",
+    "year": "1991"
+  },
+  {
+    "movie": "Il bisbetico domato",
+    "year": "1980"
+  },
+  {
+    "movie": "Roman Holiday",
+    "year": "1953"
+  },
+  {
+    "movie": "The Notebook",
+    "year": "2004"
+  },
+  {
+    "movie": "Balto",
+    "year": "1995"
+  },
+  {
+    "movie": "Gone with the Wind",
+    "year": "1939"
+  },
+  {
+    "movie": "The Dark Knight Rises",
+    "year": "2012"
+  },
+  {
+    "movie": "Das Leben der Anderen",
+    "year": "2006"
+  },
+  {
+    "movie": "Lucky Number Slevin",
+    "year": "2005"
+  },
+  {
+    "movie": "Amadeus",
+    "year": "1984"
+  },
+  {
+    "movie": "The Devil's Advocate",
+    "year": "1997"
+  },
+  {
+    "movie": "Rush",
+    "year": "2013"
+  },
+  {
+    "movie": "Inside I'm Dancing",
+    "year": "2004"
+  },
+  {
+    "movie": "Hauru no ugoku shiro",
+    "year": "2004"
+  },
+  {
+    "movie": "Witness for the Prosecution",
+    "year": "1957"
+  },
+  {
+    "movie": "The Hobbit: An Unexpected Journey",
+    "year": "2012"
+  },
+  {
+    "movie": "Million Dollar Baby",
+    "year": "2004"
+  },
+  {
+    "movie": "The Boy in the Striped Pyjamas",
+    "year": "2008"
+  },
+  {
+    "movie": "Dead Poets Society",
+    "year": "1989"
+  },
+  {
+    "movie": "Ocean's Eleven",
+    "year": "2001"
+  },
+  {
+    "movie": "Casino",
+    "year": "1995"
+  },
+  {
+    "movie": "The Artist",
+    "year": "2011"
+  },
+  {
+    "movie": "The Fifth Element",
+    "year": "1997"
+  },
+  {
+    "movie": "Groundhog Day",
+    "year": "1993"
+  },
+  {
+    "movie": "Home Alone",
+    "year": "1990"
+  },
+  {
+    "movie": "Hotaru no haka",
+    "year": "1988"
+  },
+  {
+    "movie": "Modern Times",
+    "year": "1936"
+  },
+  {
+    "movie": "How to Steal a Million",
+    "year": "1996"
+  },
+  {
+    "movie": "The Blind Side",
+    "year": "2009"
+  },
+  {
+    "movie": "La leggenda del pianista sull'oceano",
+    "year": "1998"
+  },
+  {
+    "movie": "Cidade de Deus",
+    "year": "2002"
+  },
+  {
+    "movie": "Aladdin",
+    "year": "1992"
+  },
+  {
+    "movie": "My Name Is Khan",
+    "year": "2010"
+  },
+  {
+    "movie": "Seven Pounds",
+    "year": "2008"
+  },
+  {
+    "movie": "The Sting",
+    "year": "1973"
+  },
+  {
+    "movie": "Ray",
+    "year": "2004"
+  },
+  {
+    "movie": "The Life of David Gale",
+    "year": "2002"
+  },
+  {
+    "movie": "Dances with Wolves",
+    "year": "1990"
+  },
+  {
+    "movie": "Ghost",
+    "year": "1990"
+  },
+  {
+    "movie": "The World's Fastest Indian",
+    "year": "2005"
+  },
+  {
+    "movie": "Goodfellas",
+    "year": "1990"
+  },
+  {
+    "movie": "Good Will Hunting",
+    "year": "1997"
+  },
+  {
+    "movie": "The Terminal",
+    "year": "2004"
+  },
+  {
+    "movie": "Scarface",
+    "year": "1983"
+  },
+  {
+    "movie": "Per qualche dollaro in più",
+    "year": "1965"
+  },
+  {
+    "movie": "Back to the Future Part III",
+    "year": "1990"
+  },
+  {
+    "movie": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": "2006"
+  },
+  {
+    "movie": "Front of the Class",
+    "year": "2008"
+  },
+  {
+    "movie": "Bluff storia di truffe e di imbroglioni",
+    "year": "1976"
+  },
+  {
+    "movie": "Inside Out",
+    "year": "2015"
+  },
+  {
+    "movie": "The King's Speech",
+    "year": "2010"
+  },
+  {
+    "movie": "Romeo and Juliet",
+    "year": "1968"
+  },
+  {
+    "movie": "Ice Age",
+    "year": "2002"
+  },
+  {
+    "movie": "Shichinin no samurai",
+    "year": "1954"
+  },
+  {
+    "movie": "Dial M for Murder",
+    "year": "1954"
+  },
+  {
+    "movie": "K-PAX",
+    "year": "2001"
+  },
+  {
+    "movie": "Three Billboards Outside Ebbing, Missouri",
+    "year": "2017"
+  },
+  {
+    "movie": "Le Fabuleux destin d'Amélie Poulain",
+    "year": "2001"
+  },
+  {
+    "movie": "Pay It Forward",
+    "year": "2000"
+  },
+  {
+    "movie": "Reservoir Dogs",
+    "year": "1991"
+  },
+  {
+    "movie": "Sherlock Holmes",
+    "year": "2009"
+  },
+  {
+    "movie": "Judgment at Nuremberg",
+    "year": "1961"
+  },
+  {
+    "movie": "Eternal Sunshine of the Spotless Mind",
+    "year": "2004"
+  },
+  {
+    "movie": "Warrior",
+    "year": "2011"
+  },
+  {
+    "movie": "Monsters, Inc.",
+    "year": "2001"
+  },
+  {
+    "movie": "Gandhi",
+    "year": "1982"
+  },
+  {
+    "movie": "Eight Below",
+    "year": "2005"
+  },
+  {
+    "movie": "Kimi no na wa.",
+    "year": "2016"
+  },
+  {
+    "movie": "Apocalypse Now",
+    "year": "1979"
+  },
+  {
+    "movie": "Star Wars: Episode III - Revenge of the Sith",
+    "year": "2005"
+  },
+  {
+    "movie": "Coach Carter",
+    "year": "2005"
+  },
+  {
+    "movie": "Freedom Writers",
+    "year": "2006"
+  },
+  {
+    "movie": "Tonari no Totoro",
+    "year": "1988"
+  },
+  {
+    "movie": "The Elephant Man",
+    "year": "1980"
+  },
+  {
+    "movie": "American Beauty",
+    "year": "1999"
+  },
+  {
+    "movie": "Gone Girl",
+    "year": "2014"
+  },
+  {
+    "movie": "Indiana Jones and the Last Crusade",
+    "year": "1989"
+  },
+  {
+    "movie": "October Sky",
+    "year": "1999"
+  },
+  {
+    "movie": "Heat",
+    "year": "1995"
+  },
+  {
+    "movie": "Men of Honor",
+    "year": "2000"
+  },
+  {
+    "movie": "Star Wars: Episode VI - Return of the Jedi ",
+    "year": "1983"
+  },
+  {
+    "movie": "Mononoke-hime",
+    "year": "1997"
+  },
+  {
+    "movie": "Yip Man",
+    "year": "2008"
+  },
+  {
+    "movie": "Psycho",
+    "year": "1960"
+  },
+  {
+    "movie": "Taare Zameen Par",
+    "year": "2007"
+  },
+  {
+    "movie": "Znachor",
+    "year": "1981"
+  },
+  {
+    "movie": "Nuovo Cinema Paradiso",
+    "year": "1988"
+  },
+  {
+    "movie": "The Illusionist",
+    "year": "2005"
+  },
+  {
+    "movie": "The Last Samurai",
+    "year": "2003"
+  },
+  {
+    "movie": "Temple Grandin",
+    "year": "2010"
+  },
+  {
+    "movie": "The Circus",
+    "year": "1928"
+  },
+  {
+    "movie": "Shrek",
+    "year": "2001"
+  },
+  {
+    "movie": "3 Idiots",
+    "year": "2009"
+  },
+  {
+    "movie": "The Hobbit: The Desolation of Smaug",
+    "year": "2013"
+  },
+  {
+    "movie": "Interstate 60",
+    "year": "2001"
+  },
+  {
+    "movie": "The Bucket List",
+    "year": "2007"
+  },
+  {
+    "movie": "Hooligans",
+    "year": "2005"
+  },
+  {
+    "movie": "The Hurricane",
+    "year": "1999"
+  },
+  {
+    "movie": "L'ours",
+    "year": "1998"
+  },
+  {
+    "movie": "The Curious Case of Benjamin Button",
+    "year": "2008"
+  },
+  {
+    "movie": "Harry Potter and the Prisoner of Azkaban",
+    "year": "2004"
+  },
+  {
+    "movie": "I Am Sam",
+    "year": "2001"
+  },
+  {
+    "movie": "The Gold Rush",
+    "year": "1925"
+  },
+  {
+    "movie": "Changeling",
+    "year": "2008"
+  },
+  {
+    "movie": "Song of the Sea",
+    "year": "2014"
+  },
+  {
+    "movie": "Apocalypto",
+    "year": "2006"
+  },
+  {
+    "movie": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": "2011"
+  },
+  {
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "year": "2001"
+  },
+  {
+    "movie": "Crash",
+    "year": "2004"
+  },
+  {
+    "movie": "To Kill a Mockingbird",
+    "year": "1962"
+  },
+  {
+    "movie": "Ratatouille",
+    "year": "2007"
+  },
+  {
+    "movie": "Die Hard",
+    "year": "1988"
+  },
+  {
+    "movie": "Big Fish",
+    "year": "2003"
+  },
+  {
+    "movie": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": "1980"
+  },
+  {
+    "movie": "Avengers: Infinity War",
+    "year": "2018"
+  },
+  {
+    "movie": "Meet Joe Black",
+    "year": "1998"
+  },
+  {
+    "movie": "Billy Elliot",
+    "year": "2000"
+  },
+  {
+    "movie": "Singin' in the Rain",
+    "year": "1952"
+  },
+  {
+    "movie": "Avatar",
+    "year": "2009"
+  },
+  {
+    "movie": "Tangled",
+    "year": "2010"
+  },
+  {
+    "movie": "Up",
+    "year": "2009"
+  },
+  {
+    "movie": "Mandariinid",
+    "year": "2013"
+  },
+  {
+    "movie": "Life of Pi",
+    "year": "2012"
+  },
+  {
+    "movie": "Mulan",
+    "year": "1998"
+  },
+  {
+    "movie": "La La Land",
+    "year": "2016"
+  },
+  {
+    "movie": "Gattaca",
+    "year": "1997"
+  },
+  {
+    "movie": "Toki o kakeru shôjo",
+    "year": "2006"
+  },
+  {
+    "movie": "L.A. Confidential",
+    "year": "1997"
+  },
+  {
+    "movie": "Kramer vs. Kramer",
+    "year": "1979"
+  },
+  {
+    "movie": "The Little Mermaid",
+    "year": "1989"
+  },
+  {
+    "movie": "Dogville",
+    "year": "2003"
+  },
+  {
+    "movie": "Le professionnel",
+    "year": "1981"
+  },
+  {
+    "movie": "Lady and the Tramp",
+    "year": "1955"
+  },
+  {
+    "movie": "Bom yeoreum gaeul gyeoul geurigo bom",
+    "year": "2003"
+  },
+  {
+    "movie": "The Fox and the Hound",
+    "year": "1981"
+  },
+  {
+    "movie": "Requiem for a Dream",
+    "year": "2000"
+  },
+  {
+    "movie": "Toy Story 3",
+    "year": "2010"
   }
 ]
