@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+  <title>Movie Database</title>
+
+  <style media="screen">
+    html {
+      box-sizing: border-box;
+      background: #b7b7ff;
+      font-family: 'Playfair Display', serif;
+      font-size: 20px;
+      font-weight: 200;
+    }
+
+    *. *::before, *::after {
+      box-sizing: inherit;
+    }
+
+    input {
+      width: 100%;
+      padding: 20px;
+      font-family: inherit;
+    }
+
+    .search-form {
+      max-width: 400px;
+      margin: 50px auto;
+    }
+
+    input.search {
+      margin: 0;
+      text-align: center;
+      outline: 0;
+      border: 10px solid #f7f7f7;
+      width: 120%;
+      left: -10%;
+      position: relative;
+      top: 10px;
+      z-index: 2;
+      border-radius: 5px;
+      font-size: 40px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.19);
+    }
+
+    .suggestions {
+      margin: 0;
+      padding: 0;
+      position: relative;
+      width: 110%;
+    }
+
+    .suggestions li {
+      background: white;
+      list-style: none;
+      border-bottom: 1px solid #d8d8d8;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
+      margin: 0;
+      padding: 20px 30px;
+      transition: background 0.2s;
+      display: flex;
+      justify-content: space-between;
+      text-transform: capitalize;
+    }
+
+    .suggestions li:nth-child(even) {
+      transform: perspective(100px) rotateX(3deg) translateY(2px) scale(1.001);
+      background: linear-gradient(to bottom, #ffffff 0%, #efefef 100%);
+    }
+    .suggestions li:nth-child(odd) {
+      transform: perspective(100px) rotateX(-3deg) translateY(3px);
+      background: linear-gradient(to top, #ffffff 0%, #efefef 100%);
+    }
+
+    span.year {
+      font-size: 15px;
+    }
+    .hl {
+      background: #9999ff;
+    }
+  </style>
+</head>
+<body>
+
+  <form class="search-form" action="index.html" method="post">
+    <input type="text" class="search" placeholder="Type in a Movie">
+    <ul class="suggestions">
+      <li>Filter for a movie</li>
+    </ul>
+  </form>
+
+  <script>
+    const endpoint = 'https://raw.githack.com/chellisssa/ajax-list/master/moviebase.json';
+
+    const movies = [];
+
+    fetch(endpoint)
+      .then(blob => blob.json())
+      .then(data => movies.push(...data));
+
+    function findMatches(wordToMatch, movies) {
+      return movies.filter(item => {
+        const regex = new RegExp(wordToMatch, 'gi');
+        return item.movie.match(regex);
+      });
+    }
+
+    function displayMatches() {
+      const matchArray = findMatches(this.value, movies);
+      const html = matchArray.map(item => {
+        const regex = new RegExp(this.value, 'gi');
+        const movieName = item.movie.replace(regex, `<span class="hl">${this.value}</span>`)
+        return `
+          <li>
+            <span class="name">${movieName}</span>
+            <span class="year">${item.year}</span>
+          </li>
+        `;
+      }).join('');
+      suggestions.innerHTML = html;
+    }
+
+    const searchInput = document.querySelector('.search');
+    const suggestions = document.querySelector('.suggestions');
+
+    searchInput.addEventListener('change', displayMatches)
+    searchInput.addEventListener('keyup', displayMatches)
+  </script>
+</body>
+</html>
